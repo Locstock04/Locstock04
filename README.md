@@ -6,6 +6,8 @@
 🛠️ Currently working on!
 - 🎮 Custom Game Engine
 - 🌦️ Weather Simulator
+- 💣 Minefield VR Game
+- 👻 Horror Game
 
 Feel free to check me out on other platforms!
 
