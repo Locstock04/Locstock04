@@ -4,10 +4,8 @@
 
 
 🛠️ Currently working on!
-- 🎮 Custom Game Engine
-- 🌦️ Weather Simulator
-- 💣 Minefield VR Game
-- 👻 Horror Game
+- 🕹️ 2 Player Co-op game using a C++ Custom Engine
+- 👻 HDRP Unity Horror Game
 
 Feel free to check me out on other platforms!
 
